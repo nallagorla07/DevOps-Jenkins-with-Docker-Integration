@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER ybmsr <ybmadhu404@gmail.com>
+MAINTAINER venky <vengaiah.nallagorla@gmail.com>
 
 WORKDIR /usr/apps/hello-docker/
 
